@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Progetto_Sistemi_Op_2023.dir/server.c.o CMakeFiles/Progetto_Sistemi_Op_2023.dir/client.c.o CMakeFiles/Progetto_Sistemi_Op_2023.dir/shared_memory.c.o CMakeFiles/Progetto_Sistemi_Op_2023.dir/semaphore.c.o -o Progetto_Sistemi_Op_2023 

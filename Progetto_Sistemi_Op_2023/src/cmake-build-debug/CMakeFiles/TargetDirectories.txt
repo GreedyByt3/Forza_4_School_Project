@@ -1,0 +1,3 @@
+/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/CMakeFiles/Progetto_Sistemi_Op_2023.dir
+/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Progetto_Sistemi_Op_2023_2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Progetto_Sistemi_Op_2023">
+				<Option output="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Progetto_Sistemi_Op_2023" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 Progetto_Sistemi_Op_2023"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Progetto_Sistemi_Op_2023/fast">
+				<Option output="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Progetto_Sistemi_Op_2023" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 Progetto_Sistemi_Op_2023/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/inc/semaphore.h">
+			<Option target="Progetto_Sistemi_Op_2023"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/inc/shared_memory.h">
+			<Option target="Progetto_Sistemi_Op_2023"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/client.c">
+			<Option target="Progetto_Sistemi_Op_2023"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/semaphore.c">
+			<Option target="Progetto_Sistemi_Op_2023"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/server.c">
+			<Option target="Progetto_Sistemi_Op_2023"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/shared_memory.c">
+			<Option target="Progetto_Sistemi_Op_2023"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/todem/Documents/Progetto_Sistemi/Progetto_Finale/Progetto_Sistemi_Op_2023/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
